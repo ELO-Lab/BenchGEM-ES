@@ -1,0 +1,7 @@
+numpy
+matplotlib
+torch
+torchvision
+torchaudio
+ray
+gym==0.15.3
