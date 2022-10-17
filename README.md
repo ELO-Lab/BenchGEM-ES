@@ -4,6 +4,17 @@
 Thai Bao Tran, Ngoc Hoang Luong
 
 ## Setup
+- Clone this repo:
+```
+$ git clone ...
+$ cd BenchGEM-ES
+```
+
+- Install dependencies:
+```
+$ pip install -r requirements.txt
+```
+To perform experiments on RL, we install MuJoCo from [here](https://github.com/openai/mujoco-py)
 
 ## Usage
 
@@ -12,3 +23,6 @@ Thai Bao Tran, Ngoc Hoang Luong
 ### Evaluate & Visualize
 
 ## Acknowledgement
+Our source code is inspired by:
+- [Guided Evolutionary Strategy](https://github.com/brain-research/guided-evolutionary-strategies)
+- [Self-Guided Evolutionary Strategy]()
