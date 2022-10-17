@@ -1,4 +1,4 @@
-# Adopted from: 
+# Adapted from: 
 # https://github.com/CMA-ES/pycma/blob/master/cma/fitness_functions.py
 import numpy as np
 from abstracts import ObjectiveFunction
